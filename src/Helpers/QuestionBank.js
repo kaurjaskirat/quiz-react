@@ -1,0 +1,42 @@
+export const Questions=[
+    {
+        prompt:"What Is The Capital Of India?",
+        optionA:"New Delhi",
+        optionB:"Lucknow",
+        optionC:"Kanpur",
+        optionD:"Jaipur",
+        answer:"A",
+    },
+    {
+        prompt:" Who was the first women prime minister of India?",
+        optionA:"Indira Gandhi",
+        optionB:" Pratibha Gandhi",
+        optionC:"Sumitra Gandhi",
+        optionD:"Sonia Gandhi",
+        answer:"A",
+    },
+    {
+        prompt:"Who is the 1st citizen of India?",
+        optionA:"President",
+        optionB:"Prime Minister",
+        optionC:"Vice-President ",
+        optionD:" Former President",
+        answer:"A",
+    },
+    {
+        prompt:"When did the Indian peoples celebrate Independence Day?",
+        optionA:"15 August ",
+        optionB:" 26 January",
+        optionC:" 16 January",
+        optionD:"10 August",
+        answer:"A",
+    },
+    {
+        prompt:"What is the national flower of India?",
+        optionA:"Lotus",
+        optionB:"Lily",
+        optionC:"Rose",
+        optionD:"Jasmine",
+        answer:"A",
+    },
+];
